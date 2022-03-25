@@ -23,6 +23,16 @@ Blue Gray:  #3e4249
     background: rgba(0, 0, 0, 0.78); /* NON-IE */
 }
 
+.telegramIcon {
+	color: white !important;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 90%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
 #tg {
 	width: 20%;
 	margin: auto;
